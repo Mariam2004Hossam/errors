@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Options\\Desktop\\TechXpress\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|c:\\users\\options\\desktop\\techxpress\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|c:\\users\\options\\desktop\\techxpress\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|c:\\users\\options\\desktop\\techxpress\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|c:\\users\\options\\desktop\\techxpress\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|c:\\users\\options\\desktop\\techxpress\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|c:\\users\\options\\desktop\\techxpress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|c:\\users\\options\\desktop\\techxpress\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|solutionrelative:models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|c:\\users\\options\\desktop\\techxpress\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|c:\\users\\options\\desktop\\techxpress\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|c:\\users\\options\\desktop\\techxpress\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|c:\\users\\options\\desktop\\techxpress\\data\\techxpressdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|solutionrelative:data\\techxpressdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|c:\\users\\options\\desktop\\techxpress\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|solutionrelative:repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|c:\\users\\options\\desktop\\techxpress\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|c:\\users\\options\\desktop\\techxpress\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|c:\\users\\options\\desktop\\techxpress\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0CBDA19-0827-4C7E-B279-262BAE052411}|TechXpress.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Options\\Desktop\\TechXpress\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Options\\Desktop\\TechXpress\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T05:45:46.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Options\\Desktop\\TechXpress\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Options\\Desktop\\TechXpress\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:52:08.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Options\\Desktop\\TechXpress\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Options\\Desktop\\TechXpress\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:07:47.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Options\\Desktop\\TechXpress\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Options\\Desktop\\TechXpress\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:25:57.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Options\\Desktop\\TechXpress\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Options\\Desktop\\TechXpress\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:41:31.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TechXpressDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Options\\Desktop\\TechXpress\\Data\\TechXpressDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\TechXpressDbContext.cs",
+              "ToolTip": "C:\\Users\\Options\\Desktop\\TechXpress\\Data\\TechXpressDbContext.cs",
+              "RelativeToolTip": "Data\\TechXpressDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:10:34.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Options\\Desktop\\TechXpress\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Options\\Desktop\\TechXpress\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:00:17.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Options\\Desktop\\TechXpress\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Options\\Desktop\\TechXpress\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:18:48.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Options\\Desktop\\TechXpress\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Options\\Desktop\\TechXpress\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:48:40.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Options\\Desktop\\TechXpress\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Options\\Desktop\\TechXpress\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADgvz0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:53:18.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Options\\Desktop\\TechXpress\\Models\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Users\\Options\\Desktop\\TechXpress\\Models\\ProductListViewModel.cs",
+              "RelativeToolTip": "Models\\ProductListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:47:39.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Options\\Desktop\\TechXpress\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Options\\Desktop\\TechXpress\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:41:38.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Options\\Desktop\\TechXpress\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Options\\Desktop\\TechXpress\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T13:59:20.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Options\\Desktop\\TechXpress\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Options\\Desktop\\TechXpress\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T11:07:41.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Options\\Desktop\\TechXpress\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Options\\Desktop\\TechXpress\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T13:55:03.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
